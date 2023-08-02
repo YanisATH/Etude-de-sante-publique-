@@ -10,7 +10,6 @@ Projet effectué dans le cadre de ma formation chez OpenClassrooms
 
 Etude de santé publique portant sur le faim dans le monde, on se base sur les données de 2017.
 
-All of my projects are in french, if you would like to see them translated please contact me on [LinkedIn](https://www.linkedin.com/in/yanis-athamnia-117111141/)
 
 Les données :
 
